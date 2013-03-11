@@ -1,0 +1,318 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AD	src/shell.c	61;"	d	file:
+AD	src/shell.c	82;"	d	file:
+AL	src/shell.c	63;"	d	file:
+AL	src/shell.c	84;"	d	file:
+AR	src/shell.c	62;"	d	file:
+AR	src/shell.c	83;"	d	file:
+AU	src/shell.c	60;"	d	file:
+AU	src/shell.c	81;"	d	file:
+BACKSPCAE	src/shell.c	88;"	d	file:
+BUF_SIZE	src/env.c	175;"	d	file:
+BUG	include/os.h	39;"	d
+CAN_PRINTF	src/shell.c	94;"	d	file:
+CFG_DEBUG	Makefile	/^CFG_DEBUG	?= 0$/;"	m
+CFG_LITTLE	Makefile	/^CFG_LITTLE 	?= 1$/;"	m
+CFLAGS	Makefile	/^CFLAGS := -c -g -I.\/include$/;"	m
+CHECK_QUOTATION_PAIRS	src/command.c	147;"	d	file:
+CTRL	src/shell.c	91;"	d	file:
+CTRL	src/shell.c	93;"	d	file:
+DBG_Print	include/os.h	34;"	d
+DBG_Print	include/os.h	36;"	d
+DEL	src/shell.c	64;"	d	file:
+DEL	src/shell.c	85;"	d	file:
+DISP_BUF_SIZE	src/console.c	16;"	d	file:
+DumpData	include/os.h	41;"	d
+ENV_FILE_NAME	src/env.c	28;"	d	file:
+ENV_TYPE_BUILD_IN	include/env.h	/^	ENV_TYPE_BUILD_IN = 1,$/;"	e	enum:__anon1
+ENV_TYPE_MAX	include/env.h	/^	ENV_TYPE_MAX$/;"	e	enum:__anon1
+ENV_TYPE_SAVE	include/env.h	/^	ENV_TYPE_SAVE,$/;"	e	enum:__anon1
+ENV_TYPE_USER_DEFINE	include/env.h	/^	ENV_TYPE_USER_DEFINE,$/;"	e	enum:__anon1
+F1	src/shell.c	47;"	d	file:
+F1	src/shell.c	68;"	d	file:
+F10	src/shell.c	56;"	d	file:
+F10	src/shell.c	77;"	d	file:
+F11	src/shell.c	57;"	d	file:
+F11	src/shell.c	78;"	d	file:
+F12	src/shell.c	58;"	d	file:
+F12	src/shell.c	79;"	d	file:
+F2	src/shell.c	48;"	d	file:
+F2	src/shell.c	69;"	d	file:
+F3	src/shell.c	49;"	d	file:
+F3	src/shell.c	70;"	d	file:
+F4	src/shell.c	50;"	d	file:
+F4	src/shell.c	71;"	d	file:
+F5	src/shell.c	51;"	d	file:
+F5	src/shell.c	72;"	d	file:
+F6	src/shell.c	52;"	d	file:
+F6	src/shell.c	73;"	d	file:
+F7	src/shell.c	53;"	d	file:
+F7	src/shell.c	74;"	d	file:
+F8	src/shell.c	54;"	d	file:
+F8	src/shell.c	75;"	d	file:
+F9	src/shell.c	55;"	d	file:
+F9	src/shell.c	76;"	d	file:
+FREE	include/os.h	26;"	d
+FREE	include/os.h	30;"	d
+INPUT_BUF_SIZE	src/console.c	15;"	d	file:
+IS_PRINTF	src/os.c	41;"	d	file:
+JNP	include/console.h	/^	JNP=0,$/;"	e	enum:__anon4
+JP	include/console.h	/^	JP,$/;"	e	enum:__anon4
+JPB	include/console.h	/^	JPB,$/;"	e	enum:__anon4
+JPF	include/console.h	/^	JPF,$/;"	e	enum:__anon4
+LD_FLAGS	Makefile	/^LD_FLAGS := -L.\/obj -lshell -lpthread $/;"	m
+LIST_IN	src/command.c	148;"	d	file:
+MALLOC	include/os.h	25;"	d
+MALLOC	include/os.h	29;"	d
+MAX	include/console.h	/^	MAX$/;"	e	enum:__anon4
+NBF	include/console.h	/^	NBF,$/;"	e	enum:__anon4
+NBFNP	include/console.h	/^	NBFNP,$/;"	e	enum:__anon4
+NBFNPB	include/console.h	/^	NBFNPB,$/;"	e	enum:__anon4
+NFNP	include/console.h	/^	NFNP,$/;"	e	enum:__anon4
+NULL	src/build_in_cmds/utils.c	22;"	d	file:
+RPPB	include/console.h	/^	RPPB,$/;"	e	enum:__anon4
+STATIC_CMD	include/command.h	66;"	d
+_BUILD_IN_CMD_	include/build_in_cmd.h	19;"	d
+_CMD_H_	include/command.h	19;"	d
+_COMPLETE_H_	include/complete.h	20;"	d
+_CONSOLE_H_	include/console.h	20;"	d
+_JOBS_	include/jobs.h	19;"	d
+_MY_UTILS_H_	include/utils.h	20;"	d
+_OS_H_	include/os.h	19;"	d
+__ENV_H__	include/env.h	20;"	d
+__QUEUE_H__	include/queue.h	20;"	d
+__SHELL_H__	include/shell.h	19;"	d
+_con_print	src/console.c	/^static int _con_print(level_t level, const char *fmt, ...)$/;"	f	file:
+_def_cfg	src/shell.c	/^static shell_cfg_t _def_cfg = {$/;"	v	file:
+_del_c_from_dispbuf	src/console.c	/^static int _del_c_from_dispbuf(int index)$/;"	f	file:
+_del_s_from_dispbuf	src/console.c	/^static int _del_s_from_dispbuf(int index, int len)$/;"	f	file:
+_do_fg	src/shell.c	/^void _do_fg(job_t *job)$/;"	f
+_do_match	src/shell.c	/^static void _do_match(void)$/;"	f	file:
+_free	src/os.c	/^void  _free(const char *fuc, int line, void *ptr)$/;"	f
+_get_corsor	src/console.c	/^static int _get_corsor()$/;"	f	file:
+_get_key	src/console.c	/^static unsigned int _get_key()$/;"	f	file:
+_help_cmd	main.c	/^static int _help_cmd(int argc, char **argv)$/;"	f	file:
+_init_dispbuf	src/console.c	/^static void _init_dispbuf(void)$/;"	f	file:
+_is_dispbuf_empty	src/console.c	/^static int _is_dispbuf_empty(void)$/;"	f	file:
+_just_print_buffer	src/console.c	/^static int _just_print_buffer(int newline, int curpos_adjust)$/;"	f	file:
+_just_print_prompt	src/console.c	/^static int _just_print_prompt(int newline)$/;"	f	file:
+_malloc	src/os.c	/^void * _malloc(const char *fuc, int line, int size)$/;"	f
+_put_c_to_dispbuf	src/console.c	/^static int _put_c_to_dispbuf(int c, int index)$/;"	f	file:
+_put_s_to_dispbuf	src/console.c	/^static int _put_s_to_dispbuf(char *s, int len, int index)$/;"	f	file:
+_reset_dispbuf	src/console.c	/^static void _reset_dispbuf(void)$/;"	f	file:
+_s_pbuf	src/console.c	/^static char *_s_pbuf = 0;$/;"	v	file:
+_set_corsor	src/console.c	/^static int _set_corsor(int index)$/;"	f	file:
+_set_corsor_to_end	src/console.c	/^static void _set_corsor_to_end(void)$/;"	f	file:
+_set_corsor_to_start	src/console.c	/^static void _set_corsor_to_start(void)$/;"	f	file:
+_shell_task	src/shell.c	/^void* _shell_task(void* args)$/;"	f
+_test_cmd	main.c	/^static int _test_cmd(int argc, char **argv)$/;"	f	file:
+_this_cmd	src/command.c	/^static queue_t _this_cmd;$/;"	v	file:
+_this_cmd_id	src/command.c	/^static int _this_cmd_id;$/;"	v	file:
+_this_console	src/console.c	/^static console_t *_this_console;$/;"	v	file:
+_this_env	src/env.c	/^static queue_t _this_env;$/;"	v	file:
+_this_job_num	src/jobs.c	/^static int _this_job_num = 0;$/;"	v	file:
+_this_jobs	src/jobs.c	/^static queue_t _this_jobs;$/;"	v	file:
+argc	include/command.h	/^    int argc;$/;"	m	struct:cmd_line_s
+argv	include/command.h	/^    char **argv;$/;"	m	struct:cmd_line_s
+background	include/command.h	/^    int background; \/* do this command in background *\/$/;"	m	struct:cmd_line_s
+buf	include/console.h	/^	unsigned int *buf; 		\/*  recv buffer , this size is 16, incase of sometimes morebytes, one key 4bytes*\/$/;"	m	struct:console_s
+buf_size	include/console.h	/^	int buf_size; 			\/*  buffer size  *\/$/;"	m	struct:console_s
+can_read	src/console.c	58;"	d	file:
+can_write	src/console.c	/^static inline int can_write(console_t *con)$/;"	f	file:
+cfg	src/shell.c	/^	shell_cfg_t *cfg;$/;"	m	struct:shell_data_s	file:
+clear_sig	src/shell.c	/^void clear_sig(void)$/;"	f
+clear_tty_attr	src/console.c	/^void clear_tty_attr(int fd)$/;"	f
+cmd	src/shell.c	/^	cmd_t *cmd;$/;"	m	struct:shell_data_s	file:
+cmd_delete	src/command.c	/^void cmd_delete(cmd_t *tmp)$/;"	f
+cmd_exit	src/command.c	/^void cmd_exit(cmd_t* cmd)$/;"	f
+cmd_find_cmd	src/command.c	/^cmd_t *cmd_find_cmd(cmd_t *cmd, int cmd_id)$/;"	f
+cmd_find_cmd_by_name	src/command.c	/^cmd_t *cmd_find_cmd_by_name(cmd_t *cmd, const char *name)$/;"	f
+cmd_id	include/command.h	/^    int cmd_id;$/;"	m	struct:cmd_line_s
+cmd_init	src/command.c	/^cmd_t* cmd_init(void)$/;"	f
+cmd_line	include/jobs.h	/^	cmd_line_t* cmd_line;$/;"	m	struct:job_s
+cmd_line_delete	src/command.c	/^void cmd_line_delete(cmd_line_t *cmd_line)$/;"	f
+cmd_line_delete_one	src/command.c	/^static void cmd_line_delete_one(cmd_line_t* tmp)$/;"	f	file:
+cmd_line_new	src/command.c	/^cmd_line_t *cmd_line_new(char *buf, int len, int *errcode)$/;"	f
+cmd_line_new_one	src/command.c	/^static cmd_line_t *cmd_line_new_one(char *buf, int len, int argc)$/;"	f	file:
+cmd_line_s	include/command.h	/^typedef struct cmd_line_s{$/;"	s
+cmd_line_t	include/command.h	/^}cmd_line_t;$/;"	t	typeref:struct:cmd_line_s
+cmd_match_complete	src/command.c	/^void cmd_match_complete(void)$/;"	f
+cmd_match_list_next	src/command.c	/^int cmd_match_list_next(char *res)$/;"	f
+cmd_match_pos	src/command.c	/^static queue_t *cmd_match_pos;$/;"	v	file:
+cmd_match_start	src/command.c	/^void cmd_match_start(void)$/;"	f
+cmd_new	src/command.c	/^cmd_t *cmd_new(int id, const char *name, const char *usage, int (*func)(int argc, char **argv))$/;"	f
+cmd_print_usage	src/command.c	/^void cmd_print_usage(cmd_t *cmd)$/;"	f
+cmd_register_cmd	src/command.c	/^void cmd_register_cmd(cmd_t *cmd, cmd_t *cmd_item)$/;"	f
+cmd_t	include/command.h	/^}cmd_t;$/;"	t	typeref:struct:__anon2
+cmdline	include/command.h	/^    char *cmdline;$/;"	m	struct:cmd_line_s
+compare_ignore_case	src/complete.c	/^static int compare_ignore_case(const char *pattern ,char *ins)$/;"	f	file:
+complete	src/complete.c	/^	void(* complete)(void);$/;"	m	struct:complete_s	file:
+complete_get_almost_likely	src/complete.c	/^int complete_get_almost_likely(const char *pattern, char **out_buf)$/;"	f
+complete_get_entry	src/complete.c	/^char *complete_get_entry(const char *pattern, int getall, int *len)$/;"	f
+complete_over	src/complete.c	/^void complete_over(void)$/;"	f
+complete_s	src/complete.c	/^static struct complete_s{$/;"	s	file:
+complete_try	src/complete.c	/^int complete_try(const char *pattern, int flags) $/;"	f
+console	src/shell.c	/^	console_t *console;$/;"	m	struct:shell_data_s	file:
+console_exit	src/console.c	/^int console_exit(console_t *console)$/;"	f
+console_init	src/console.c	/^int console_init(console_t **console, int buf_size)$/;"	f
+console_s	include/console.h	/^typedef struct console_s{$/;"	s
+console_t	include/console.h	/^}console_t;$/;"	t	typeref:struct:console_s
+count	include/console.h	/^	int count; 				\/*  recv buffer size *\/$/;"	m	struct:console_s
+cur_count	src/complete.c	/^static int cur_count = 0;$/;"	v	file:
+cur_match	src/complete.c	/^static int cur_match = 0;$/;"	v	file:
+cur_pattern	src/complete.c	/^static char *cur_pattern = 0;$/;"	v	file:
+cur_term_pgid	src/shell.c	/^static pid_t cur_term_pgid;$/;"	v	file:
+curpos	include/console.h	/^	int curpos;				\/*  cursor pos *\/$/;"	m	struct:console_s
+data	src/complete.c	/^	char *data;$/;"	m	struct:entry_s	file:
+dbg_console	src/console.c	/^void dbg_console(console_t *console)$/;"	f
+del_c_from_disp	include/console.h	/^	int (*del_c_from_disp)(int index);$/;"	m	struct:console_s
+del_s_from_disp	include/console.h	/^	int (*del_s_from_disp)(int index, int len);$/;"	m	struct:console_s
+dendpos	include/console.h	/^	int dendpos;			\/*  display end pos *\/$/;"	m	struct:console_s
+dispbuf	include/console.h	/^	char *dispbuf; 			\/*  display buf *\/$/;"	m	struct:console_s
+do_cd	src/build_in_cmds/register.c	/^static int do_cd(int argc, char **argv)$/;"	f	file:
+do_cmd_in_child	src/shell.c	/^void do_cmd_in_child(cmd_t *cmd, cmd_line_t *cmd_line)$/;"	f
+do_exit	src/shell.c	/^int do_exit(int argc, char **argv)$/;"	f
+do_fg	src/shell.c	/^int do_fg(int argc, char **argv)$/;"	f
+do_help	src/shell.c	/^int do_help(int argc, char **argv)$/;"	f
+do_jobs	src/shell.c	/^int do_jobs(int argc, char **argv)$/;"	f
+do_ls	src/build_in_cmds/ls.c	/^int do_ls(int argc, char **argv)$/;"	f
+do_printenv	src/env.c	/^extern int do_printenv(int argc, char **argv)$/;"	f
+do_pwd	src/build_in_cmds/register.c	/^static int do_pwd(int argc, char **argv)$/;"	f	file:
+do_saveenv	src/env.c	/^extern int do_saveenv(int argc, char **argv)$/;"	f
+do_setenv	src/env.c	/^extern int do_setenv(int argc, char **argv)$/;"	f
+do_unsetenv	src/env.c	/^extern int do_unsetenv(int argc, char **argv)$/;"	f
+dstartpos	include/console.h	/^	int dstartpos;			\/*  display start pos *\/$/;"	m	struct:console_s
+dumpbuf	src/os.c	/^void dumpbuf(const char *function_name, int line, unsigned char *buf, int len)$/;"	f
+entry_delete	src/complete.c	/^static void entry_delete(entry_t *entry)$/;"	f	file:
+entry_new	src/complete.c	/^static entry_t *entry_new(char *data)$/;"	f	file:
+entry_s	src/complete.c	/^typedef struct entry_s{$/;"	s	file:
+entry_t	src/complete.c	/^}entry_t;$/;"	t	typeref:struct:entry_s	file:
+env	src/shell.c	/^	env_t *env;$/;"	m	struct:shell_data_s	file:
+env_delenv	src/env.c	/^int env_delenv(const char *name)$/;"	f
+env_delete	src/env.c	/^static void env_delete(env_t* env)$/;"	f	file:
+env_exit	src/env.c	/^void env_exit(env_t *env)$/;"	f
+env_find	src/env.c	/^int env_find(const char *name, char **value)$/;"	f
+env_init	src/env.c	/^env_t* env_init(void)$/;"	f
+env_new	src/env.c	/^static env_t* env_new(char *line)$/;"	f	file:
+env_new_by_sp	src/env.c	/^static env_t *env_new_by_sp(char *name, char *value)$/;"	f	file:
+env_s	include/env.h	/^typedef struct env_s{$/;"	s
+env_setenv	src/env.c	/^int env_setenv(const char *name, const char *value, env_type_t type)$/;"	f
+env_sync	src/env.c	/^int env_sync()$/;"	f
+env_t	include/env.h	/^}env_t;$/;"	t	typeref:struct:env_s
+env_type_t	include/env.h	/^}env_type_t;$/;"	t	typeref:enum:__anon1
+exit	include/console.h	/^	int (*exit)(struct console_s *);$/;"	m	struct:console_s
+func	include/command.h	/^    int (*func)(int argc, char **argv);$/;"	m	struct:__anon2
+gcom	src/complete.c	/^}gcom[] = {$/;"	v	typeref:struct:complete_s	file:
+gd	src/shell.c	/^static shell_data_t  gd;$/;"	v	file:
+get_corsor	include/console.h	/^	int (*get_corsor)(void);$/;"	m	struct:console_s
+get_key	include/console.h	/^	unsigned int (*get_key)(void);$/;"	m	struct:console_s
+get_key	src/console.c	/^static inline unsigned int get_key(console_t *con)$/;"	f	file:
+give_terminal_to	src/shell.c	/^int give_terminal_to(int fd, pid_t pgrp)$/;"	f
+has_env	include/shell.h	/^	int has_env;$/;"	m	struct:__anon3
+haspipe	include/command.h	/^    int haspipe; \/*  has pipe *\/$/;"	m	struct:cmd_line_s
+hasredirect	include/command.h	/^    int hasredirect; \/* has redirect *\/$/;"	m	struct:cmd_line_s
+id	include/command.h	/^    int id;$/;"	m	struct:__anon2
+id	include/jobs.h	/^	int id;$/;"	m	struct:job_s
+init	src/shell.c	/^	int init;$/;"	m	struct:shell_data_s	file:
+init_dispbuf	include/console.h	/^	void (*init_dispbuf)(void);$/;"	m	struct:console_s
+init_sig	src/shell.c	/^void init_sig(void)$/;"	f
+is_dispbuf_empty	include/console.h	/^	int (*is_dispbuf_empty)(void);$/;"	m	struct:console_s
+is_in_pthread	include/shell.h	/^	int is_in_pthread;$/;"	m	struct:__anon3
+job_count	src/jobs.c	/^int job_count(job_t* jobs)$/;"	f
+job_delete	src/jobs.c	/^static void job_delete(job_t *job)$/;"	f	file:
+job_exit	src/jobs.c	/^void job_exit(job_t* jobs)$/;"	f
+job_find_by_id	src/jobs.c	/^job_t* job_find_by_id(job_t* jobs, int id)$/;"	f
+job_find_by_pid	src/jobs.c	/^job_t* job_find_by_pid(job_t* jobs, pid_t pid)$/;"	f
+job_id_to_pid	src/jobs.c	/^pid_t job_id_to_pid(job_t *jobs, int id)$/;"	f
+job_in	src/jobs.c	/^int job_in(job_t* jobs, pid_t pid, cmd_line_t* cmd_line)$/;"	f
+job_init	src/jobs.c	/^job_t *job_init(void)$/;"	f
+job_new	src/jobs.c	/^static job_t *job_new(pid_t pid, cmd_line_t *cmd_line)$/;"	f	file:
+job_out	src/jobs.c	/^void job_out(job_t* jobs, pid_t pid)$/;"	f
+job_pid_to_id	src/jobs.c	/^int job_pid_to_id(job_t* jobs, pid_t pid)$/;"	f
+job_s	include/jobs.h	/^typedef struct job_s{$/;"	s
+job_t	include/jobs.h	/^}job_t;$/;"	t	typeref:struct:job_s
+jobs	src/shell.c	/^	job_t *jobs;$/;"	m	struct:shell_data_s	file:
+last_endpos	include/console.h	/^	int last_endpos;		\/*  use this to clear line print *\/$/;"	m	struct:console_s
+level_t	include/console.h	/^}level_t;$/;"	t	typeref:enum:__anon4
+list_next	src/complete.c	/^	int(* list_next)(char *res);$/;"	m	struct:complete_s	file:
+main	main.c	/^int main(void)$/;"	f
+match_pos	src/complete.c	/^static queue_t *match_pos ;$/;"	v	file:
+match_queue	src/complete.c	/^static queue_t match_queue = {$/;"	v	file:
+mygetopt	src/build_in_cmds/utils.c	/^int mygetopt(int argc, char **argv, char *opts)$/;"	f
+mymemcpy	src/build_in_cmds/utils.c	/^void *mymemcpy(void *dest, void *src, int size)$/;"	f
+mymemmove	src/build_in_cmds/utils.c	/^void *mymemmove(void *dest, void *src, int size)$/;"	f
+mymemset	src/build_in_cmds/utils.c	/^void *mymemset(void *src, int c, int size)$/;"	f
+mystrcat	src/build_in_cmds/utils.c	/^char *mystrcat(char *dest, char *src)$/;"	f
+mystrchr	src/build_in_cmds/utils.c	/^char* mystrchr(char *str, char c)$/;"	f
+mystrcmp	src/build_in_cmds/utils.c	/^int mystrcmp(char *s1, char *s2)$/;"	f
+mystrcpy	src/build_in_cmds/utils.c	/^char *mystrcpy(char *dest, char *src)$/;"	f
+mystrncpy	src/build_in_cmds/utils.c	/^char *mystrncpy(char *dest, char *src, int size)$/;"	f
+name	include/command.h	/^    const char *name;$/;"	m	struct:__anon2
+name	include/env.h	/^	char *name;$/;"	m	struct:env_s
+name	src/complete.c	/^	const char *name;$/;"	m	struct:complete_s	file:
+next	include/command.h	/^    struct cmd_line_s *next;\/* one input line, maybe have more then 1 cmds, such as pipe, or ';' *\/$/;"	m	struct:cmd_line_s	typeref:struct:cmd_line_s::cmd_line_s
+next	include/queue.h	/^	struct queue_s *next;$/;"	m	struct:queue_s	typeref:struct:queue_s::queue_s
+objs	Makefile	/^objs := $(src:%.c=%.o)    #this objs has src directory info$/;"	m
+objs_objdir	Makefile	/^objs_objdir := $(src_nodir:%.c=obj\/%.o) #this objs just put the .o file to the obj directory$/;"	m
+pid	include/jobs.h	/^	pid_t pid;$/;"	m	struct:job_s
+prev	include/queue.h	/^	struct queue_s *prev;$/;"	m	struct:queue_s	typeref:struct:queue_s::queue_s
+print	include/console.h	/^	int (*print)(level_t level, const char *, ...);$/;"	m	struct:console_s
+print_file_info	src/build_in_cmds/ls.c	/^static int print_file_info(char *fullname, char *name, int flag)$/;"	f	file:
+print_file_with_color	src/build_in_cmds/ls.c	/^static int print_file_with_color(char *name, mode_t mode, char *linkname)$/;"	f	file:
+process_waitchild_result	src/shell.c	/^void process_waitchild_result($/;"	f
+prompt	include/console.h	/^	const char *prompt;		\/* maybe use buffer will be safer *\/$/;"	m	struct:console_s
+prompt	include/shell.h	/^	const char *prompt;$/;"	m	struct:__anon3
+put_c_to_disp	include/console.h	/^	int (*put_c_to_disp)(int c, int index);$/;"	m	struct:console_s
+put_key	src/console.c	44;"	d	file:
+put_s_to_disp	include/console.h	/^	int (*put_s_to_disp)(char *s, int len, int index);$/;"	m	struct:console_s
+q_count	src/queue.c	/^int q_count(queue_t *q)$/;"	f
+q_deque	src/queue.c	/^void q_deque(queue_t *qem)$/;"	f
+q_empty	include/queue.h	28;"	d
+q_enque	src/queue.c	/^void q_enque(queue_t *q, queue_t *qem)$/;"	f
+q_foreach	include/queue.h	30;"	d
+q_init	include/queue.h	27;"	d
+queue	include/command.h	/^    queue_t queue;$/;"	m	struct:__anon2
+queue	include/env.h	/^	queue_t queue;$/;"	m	struct:env_s
+queue	include/jobs.h	/^	queue_t queue;$/;"	m	struct:job_s
+queue	src/complete.c	/^	queue_t queue;$/;"	m	struct:entry_s	file:
+queue_s	include/queue.h	/^typedef struct queue_s{$/;"	s
+queue_t	include/queue.h	/^}queue_t;$/;"	t	typeref:struct:queue_s
+register_build_in_cmd	src/build_in_cmds/register.c	/^void register_build_in_cmd(cmd_t *cmd)$/;"	f
+reset_complete_result	src/complete.c	/^static inline void reset_complete_result(void)$/;"	f	file:
+reset_dispbuf	include/console.h	/^	void (*reset_dispbuf)(void);$/;"	m	struct:console_s
+rpos	include/console.h	/^	int rpos;				\/*  buf read pos *\/$/;"	m	struct:console_s
+set_console	src/console.c	/^static void set_console(int fd, int flag)$/;"	f	file:
+set_corsor	include/console.h	/^	int (*set_corsor)(int index);$/;"	m	struct:console_s
+set_corsor_to_end	include/console.h	/^	void (*set_corsor_to_end)(void);$/;"	m	struct:console_s
+set_corsor_to_start	include/console.h	/^	void (*set_corsor_to_start)(void);$/;"	m	struct:console_s
+set_tty_attr	src/console.c	/^void set_tty_attr(int fd)$/;"	f
+shell_cfg_t	include/shell.h	/^}shell_cfg_t;$/;"	t	typeref:struct:__anon3
+shell_data_s	src/shell.c	/^typedef struct shell_data_s{$/;"	s	file:
+shell_data_t	src/shell.c	/^}shell_data_t;$/;"	t	typeref:struct:shell_data_s	file:
+shell_do_command	src/shell.c	/^int shell_do_command(cmd_line_t *cmd_line)$/;"	f
+shell_exit	src/shell.c	/^int shell_exit()$/;"	f
+shell_init	src/shell.c	/^int shell_init(const shell_cfg_t * cfg)$/;"	f
+shell_isrunning	src/shell.c	/^int shell_isrunning()$/;"	f
+shell_register_cmd	src/shell.c	/^int shell_register_cmd($/;"	f
+shell_start	src/shell.c	/^int shell_start()$/;"	f
+shell_stop	src/shell.c	/^int shell_stop(int force)$/;"	f
+sigchild_handler	src/shell.c	/^void sigchild_handler(int signo)$/;"	f
+signal_handler	src/shell.c	/^void signal_handler(int signo)$/;"	f
+src	Makefile	/^src := $(wildcard src\/*.c src\/build_in_cmds\/*.c)$/;"	m
+src_nodir	Makefile	/^src_nodir := $(notdir $(src))$/;"	m
+start	src/complete.c	/^	void(* start)(void);$/;"	m	struct:complete_s	file:
+task_id	src/shell.c	/^	pthread_t task_id;$/;"	m	struct:shell_data_s	file:
+task_run	src/shell.c	/^	int task_run;$/;"	m	struct:shell_data_s	file:
+term	src/console.c	/^static struct termios term;$/;"	v	typeref:struct:termios	file:
+ttyfd	include/console.h	/^	int ttyfd;$/;"	m	struct:console_s
+type	include/env.h	/^	env_type_t type;$/;"	m	struct:env_s
+usage	include/command.h	/^    const char *usage;$/;"	m	struct:__anon2
+use_color	include/shell.h	/^	int use_color;$/;"	m	struct:__anon3
+value	include/env.h	/^	char *value;$/;"	m	struct:env_s
+waitchild	src/shell.c	/^int waitchild(int *pid, int *status, int flag)$/;"	f
+wpos	include/console.h	/^	int wpos;				\/*  buf write pos *\/$/;"	m	struct:console_s
